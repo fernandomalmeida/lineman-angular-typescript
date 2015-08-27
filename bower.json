@@ -1,0 +1,13 @@
+{
+  "name": "lineman-angular-typescript",
+  "version": "0.0.0",
+  "authors": [
+    "Fernando Mendonça de Almeida <fernando.m.al.91@gmail.com>"
+  ],
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "jquery": "~2.1.3",
+    "angular-ui-router": "~0.2.13"
+  }
+}
